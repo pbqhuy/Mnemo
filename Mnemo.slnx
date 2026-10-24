@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Mnemo.Core/Mnemo.Core.csproj" />
+    <Project Path="src/Mnemo.Data/Mnemo.Data.csproj" />
+    <Project Path="src/Mnemo.Wpf/Mnemo.Wpf.csproj" />
+  </Folder>
+</Solution>
