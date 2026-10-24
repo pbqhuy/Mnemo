@@ -4,7 +4,7 @@
 
 ---
 
-## 🏛️ Cấu trúc dự án
+## Cấu trúc dự án
 
 Dự án được tổ chức theo kiến trúc phân tầng (Clean / Layered Architecture):
 
@@ -19,7 +19,7 @@ Mnemo/
 
 ---
 
-## 🚀 Công nghệ sử dụng
+## Công nghệ sử dụng
 
 - **.NET 10 (WPF)**
 - **SQLite** (`Microsoft.EntityFrameworkCore.Sqlite`)
@@ -28,7 +28,7 @@ Mnemo/
 
 ---
 
-## 💻 Hướng dẫn chạy
+## Hướng dẫn chạy
 
 ```powershell
 # Chạy ứng dụng trực tiếp từ terminal
